@@ -1,0 +1,10 @@
+Założenia projektowe BeInShape:
+	
+	Użytkownik wprowadza swoje dane czyli: wagę, wzrost i aktywnośc fizyczna( współczynniki do spalania w zależnosci od aktywnosci 
+  ruchowej: brak ruchu, normalna aktywnośc, duża aktywnosc) 
+	na podstawie wprowadzonych danych obliczane jest aktualne BMI
+ 	Bmi uzytkownika porównywane jest z idealnym BMI przy danym wzroscie.
+ 	W zależności czy użytkownik ma nadwagę czy też niedowagę proponwane są dzienne racje kalorri i 
+  ilość dni potrzebna do uzyskania efektu idealnego BMI.
+ 	Dzienne racje dobierane są z bazy posiłków, każdy posiłek zawiera ileś kalorri.
+Posilki na dany dzień zapisywane są do pliku tekstowego.
