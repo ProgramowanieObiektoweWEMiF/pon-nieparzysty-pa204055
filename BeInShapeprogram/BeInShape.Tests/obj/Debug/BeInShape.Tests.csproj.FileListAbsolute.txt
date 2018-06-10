@@ -1,0 +1,13 @@
+C:\Users\adass\OneDrive\Dokumenty\Visual Studio 2015\Projects\BeInShape\BeInShape.Tests\bin\Debug\BeInShape.Tests.dll
+C:\Users\adass\OneDrive\Dokumenty\Visual Studio 2015\Projects\BeInShape\BeInShape.Tests\bin\Debug\BeInShape.Tests.pdb
+C:\Users\adass\OneDrive\Dokumenty\Visual Studio 2015\Projects\BeInShape\BeInShape.Tests\bin\Debug\BeInShape.exe
+C:\Users\adass\OneDrive\Dokumenty\Visual Studio 2015\Projects\BeInShape\BeInShape.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\adass\OneDrive\Dokumenty\Visual Studio 2015\Projects\BeInShape\BeInShape.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\adass\OneDrive\Dokumenty\Visual Studio 2015\Projects\BeInShape\BeInShape.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\adass\OneDrive\Dokumenty\Visual Studio 2015\Projects\BeInShape\BeInShape.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\adass\OneDrive\Dokumenty\Visual Studio 2015\Projects\BeInShape\BeInShape.Tests\bin\Debug\BeInShape.pdb
+C:\Users\adass\OneDrive\Dokumenty\Visual Studio 2015\Projects\BeInShape\BeInShape.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\adass\OneDrive\Dokumenty\Visual Studio 2015\Projects\BeInShape\BeInShape.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\adass\OneDrive\Dokumenty\Visual Studio 2015\Projects\BeInShape\BeInShape.Tests\obj\Debug\BeInShape.Tests.csprojResolveAssemblyReference.cache
+C:\Users\adass\OneDrive\Dokumenty\Visual Studio 2015\Projects\BeInShape\BeInShape.Tests\obj\Debug\BeInShape.Tests.dll
+C:\Users\adass\OneDrive\Dokumenty\Visual Studio 2015\Projects\BeInShape\BeInShape.Tests\obj\Debug\BeInShape.Tests.pdb
